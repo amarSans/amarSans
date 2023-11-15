@@ -2,7 +2,7 @@
 
 pekenalkan nama saya **Muammar**.
 
-pencapaian yang dicapai beserta linknya nanti
+
 <p align="left">
 <a href="https://github.com/amarSans">
   
