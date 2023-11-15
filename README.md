@@ -1,6 +1,6 @@
 ### Hi Semua 👋
 
-pekenalkan nama saya **Muammar**.
+perkenalkan nama saya **Muammar**.
 
 
 <p align="left">
