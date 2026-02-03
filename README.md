@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Amar
 💻 Android Developer | 🚀 Learning every day
 ### 📫 Connect with me
-- 🌐 Portfolio: [portfolio](https://amarSans.github.io)
-- 💼 LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/muammar-x-55854b25b/)
+- 🌐 Portfolio: [amarSans.github.io](https://amarSans.github.io)
+- 💼 LinkedIn: [linkedin.com/in/muammar](https://www.linkedin.com/in/muammar-x-55854b25b/)
 - 📧 Email: amuammar698@email.com
 
 <p align="left">
