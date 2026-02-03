@@ -5,9 +5,6 @@
 - 💼 LinkedIn: [linkedin.com/in/username](https://www.linkedin.com/in/muammar-x-55854b25b/)
 - 📧 Email: amuammar698@email.com
 
-
-
-
 <p align="left">
 <a href="https://github.com/amarSans">
   
