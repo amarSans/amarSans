@@ -1,6 +1,8 @@
 ### Hi Semua 👋
 
-perkenalkan nama saya **Muammar**.
+## Hi there 👋 I'm Amar
+💻 Full Stack Developer | 🚀 Learning every day
+
 
 <p align="left">
 <a href="https://github.com/amarSans">
