@@ -4,6 +4,7 @@
 - 🌐 Portfolio: [amarSans.github.io](https://amarSans.github.io)
 - 💼 LinkedIn: [linkedin.com/in/muammar](https://www.linkedin.com/in/muammar-x-55854b25b/)
 - 📧 Email: amuammar698@email.com
+- 📜 Curriculum Vitae: [Curriculum Vitae](https://drive.google.com/file/d/16VLcQtpRfL9pOqWXbAolc_lGlCh7AlWL/view?usp=drive_link)
 
 <p align="left">
 <a href="https://github.com/amarSans">
