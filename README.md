@@ -1,4 +1,7 @@
 ## Hi there 👋 I'm Amar
+
+<img src="/assets/images/oke.webp" alt="Sticker" class="sticker float: right width:150px margin-right:20px margin-bottom: 10px display:block clear:both">
+
 💻 Android Developer | 🚀 Learning every day
 ### 📫 Connect with me
 - 🌐 Portfolio: [amarSans.github.io](https://amarSans.github.io)
