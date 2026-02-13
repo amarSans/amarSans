@@ -1,13 +1,25 @@
 ## Hi there 👋 I'm Amar
 
-<img src="/assets/images/oke.webp" alt="Sticker" class="sticker float: right width:150px margin-right:20px margin-bottom: 10px display:block clear:both">
-
 💻 Android Developer | 🚀 Learning every day
+
 ### 📫 Connect with me
+
+<table>
+  <tr>
+    <td>
+      
 - 🌐 Portfolio: [amarSans.github.io](https://amarSans.github.io)
 - 💼 LinkedIn: [linkedin.com/in/muammar](https://www.linkedin.com/in/muammar-x-55854b25b/)
 - 📧 Email: amuammar698@email.com
 - 📜 Curriculum Vitae: [Curriculum Vitae](https://drive.google.com/file/d/16VLcQtpRfL9pOqWXbAolc_lGlCh7AlWL/view?usp=drive_link)
+
+    </td>
+    <td>
+      <img src="oke.webp" width="150">
+    </td>
+  </tr>
+</table>
+
 
 <p align="left">
 <a href="https://github.com/amarSans">
@@ -21,5 +33,3 @@
 </a>
 </p>
 
-🌱 Currently learning:
-- Data Analytics (Python, Pandas, SQL)
